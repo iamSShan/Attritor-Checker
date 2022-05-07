@@ -1,8 +1,7 @@
 # Attritor Checker
 
-Customers who will be showing attrition are called here as `attritors`. User demographic features and some numerical features like balance, salary are used to predict whether these features has impact on customer attrition or not. 
+Customers who will be part of attrition are called here as `attritors`. User demographic features and some numerical features like balance, salary are used to predict attrition and whether these features have impact on customer attrition or not.
 
-![dataset image](./images/dataset_image.jpg)
 
 ## Exploratory Data Analysis
 ![Gender](images/gender.png "Gender") ![Tenure](images/tenure.png "Tenure")
